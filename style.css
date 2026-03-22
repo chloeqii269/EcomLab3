@@ -1,0 +1,17 @@
+.fcontainer
+{
+    width: 100%;
+    margin: auto;
+    padding: 0 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Bad Script", sans-serif;
+}
